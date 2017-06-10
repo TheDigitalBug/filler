@@ -9,7 +9,7 @@ The goal of this project is to introduce basic algorithms.
 
   - install/copy frameworks SDL2 and SDL2_ttf to Library/Frameworks/
   - run make
-  - open folder "resorses" 
+  - open folder "resources" 
   - run ./filler_vm -f MAP -p1 P1_NAME -p2 P2_NAME 
   ("example" - ./filler_vm -f maps/map02 -p2 players/superjeannot.filler -p1 ../filler)
   
