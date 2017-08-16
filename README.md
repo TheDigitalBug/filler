@@ -2,12 +2,13 @@
 ---
 The goal of this project is to write an algorithm for the game Filler.
 ---
+![alt text](https://github.com/TheDigitalBug/filler/blob/master/filler.gif?)
+---
 **The rules of the game:**
  - the winner is player who gets biggest board space.
  - the game is over for player if he cant makes an move.
  - piece sent by the Virtual Machine.
  - piece can have any shape and size.
-
 =======================
 ### Filler bot Game with SDL2 graphic
 ![alt text](https://github.com/TheDigitalBug/filler/blob/master/logo.png)
