@@ -2,7 +2,9 @@
 ---
 The goal of this project is to write an algorithm for the game Filler.
 ---
+<p align="center">
 ![alt text](https://github.com/TheDigitalBug/filler/blob/master/filler.gif?)
+ </p>
 ---
 **The rules of the game:**
  - the winner is player who gets biggest board space.
