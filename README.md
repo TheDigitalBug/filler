@@ -17,9 +17,8 @@ The goal of this project is to write an algorithm for the game Filler.
 $> make
 $> cd resources
 $> ./filler_vm -f maps/map02 -p2 players/superjeannot.filler -p1 ../filler
+[./filler_vm -f MAP -p1 P1_NAME -p2 P2_NAME]
 ```
-./filler_vm -f MAP -p1 P1_NAME -p2 P2_NAME
 
- 
 # Filler bot Game with SDL2 graphic
 ![alt text](https://github.com/TheDigitalBug/filler/blob/master/logo.png)
