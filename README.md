@@ -1,6 +1,7 @@
 # Filler project is an algorithm project with SDL2 graphic
 Filler game! Fight with enemy player! 
 The goal of this project is to write an algorithm for the game Filler.
+---
 **The rules of the game:**
  - the winner is player who gets biggest board space.
  - the game is over for player if he cant makes an move.
