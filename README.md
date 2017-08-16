@@ -6,8 +6,8 @@ The goal of this project is to introduce basic algorithms.
 ![alt text](https://github.com/TheDigitalBug/filler/blob/master/logo.png)
 =============
 The rules of the game:
-Each player must place their piece.
-The game ends when a player can no longer place a piece.
+Each bot must place their piece.
+The game ends when a bot can no longer place a piece.
 
 # RUN ME!
 
