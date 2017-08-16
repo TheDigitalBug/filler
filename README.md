@@ -5,6 +5,10 @@ The goal of this project is to introduce basic algorithms.
 ### Filler bot Game with SDL2 graphic
 ![alt text](https://github.com/TheDigitalBug/filler/blob/master/logo.png)
 =============
+The rules of the game:
+Each player must place their piece.
+The game ends when a player can no longer place a piece.
+
 # RUN ME!
 
   - install/copy frameworks SDL2 and SDL2_ttf to Library/Frameworks/
@@ -14,3 +18,4 @@ The goal of this project is to introduce basic algorithms.
   ("example" - ./filler_vm -f maps/map02 -p2 players/superjeannot.filler -p1 ../filler)
   
   
+ 
