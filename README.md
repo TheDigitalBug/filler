@@ -1,5 +1,5 @@
 # Filler project is an algorithm project with SDL2 graphic
-Filler game! Fight with enemy player! 
+---
 The goal of this project is to write an algorithm for the game Filler.
 ---
 **The rules of the game:**
@@ -14,7 +14,6 @@ The goal of this project is to write an algorithm for the game Filler.
 =============
 
 # Usage!
-
   - install/copy frameworks SDL2 and SDL2_ttf to Library/Frameworks/
   - $> make
   - $> cd resources 
